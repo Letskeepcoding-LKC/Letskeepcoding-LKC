@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Letskeepcoding-LKC
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on python project 
+- 👋 Hi, I’m Timmy_lysis
+- 👀 I’m Data analyst
+- 🌱 I’m currently building rea-life project
+- 💞️ I’m looking to collaborate on Data analytics project 
 - 📫 How to reach me : you can reach out to me here
 - 😄 Pronouns: he
 - ⚡ Fun fact: i love potatoes....
