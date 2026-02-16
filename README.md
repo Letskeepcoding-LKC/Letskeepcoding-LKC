@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Timmy_lysis
-- 👀 I’m Data analyst
+- 👀 I’m a Data analyst
 - 🌱 I’m currently building rea-life project
 - 💞️ I’m looking to collaborate on Data analytics project 
 - 📫 How to reach me : you can reach out to me here
