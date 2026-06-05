@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Timmy_lysis
-- 👀 I’m a Data analyst
-- 🌱 I’m currently building rea-life project
+- 👀 I’m an astronomical Data analyst
+- 🌱 I’m currently building real-life project in my data space
 - 💞️ I’m looking to collaborate on Data analytics project 
-- 📫 How to reach me : you can reach out to me here
-- 😄 Pronouns: he
 - ⚡ Fun fact: i love potatoes....
 
 <!---
